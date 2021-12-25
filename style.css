@@ -1,0 +1,424 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border box;	
+}
+.menubar{
+ width: 90%;
+ height: 25px;
+ background-color: grey;
+ margin: 0 auto;
+}
+	
+.logo{
+   width: 150px;
+    height: 40px
+}
+.tagline{
+   color: white;  
+}
+.fa-search{
+  color: #fccf03;
+}
+.image img {
+    width: 100%;
+    height: 450px;
+    position: relative;
+
+  }
+  .textbox{
+    border-radius: 5px;
+    border: 1px;
+    padding-left: 10px;
+  }
+  .content{
+  	position: absolute;
+  	top: 22%;
+  	color: white;
+  	text-align: center;
+    width: 100%;
+ 
+  }
+
+ .content h4{
+  	color: white;
+  }
+  .certified{
+     color: white;
+     font-size: 25px;
+     font-weight: 500;
+  }
+ .service{
+   font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-style: revert;
+    margin-bottom: -15px
+ }
+.creative{
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #fccf03;
+    font-weight: 900;
+    font-style: revert;
+}
+.pgraph{
+  	color: white;
+    margin-bottom: -5px
+  }
+.pgraph1{
+   margin-bottom: -5px
+}
+ .btn1 {
+   text-transform: uppercase;
+ 	  color: white;
+    background-color: #fccf03;
+    padding: 5px 20px;
+    margin: 20px;
+    border: 1px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+
+ }
+.knowproject{
+   margin-top: 50px;
+}
+.welcome{
+    font-size: 40px;
+    color: #fccf03;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.aliquam{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -15px;
+}
+.paragraph{
+  left: 110px;
+  margin-top: 50px
+}
+.lorem{
+  padding:1px;
+}
+.dolor{
+  padding:1px;
+}
+.worker{
+	width: 480px;
+  height: 400px;
+  margin-left: 100px;
+}
+.btn2{
+  text-transform: uppercase;
+    color: white;
+    background-color: #fccf03;
+    padding: 5px 20px;
+    border: 1px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.fourcontent{
+  background-color: #f7faf9;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.choose{
+	background-color: #f7faf9;
+	font-size: 40px;
+  font-weight: bold; 
+}
+.sit{
+  margin-top: 20px;
+  margin-bottom: -5px;
+}
+.quality{
+text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+.time{
+ text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+.passionate{
+ text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+.profesional{
+ text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+.card1{
+  	border:none;
+  }
+.cardimage{
+   width: 200px;
+   height: 100px;
+}
+.ourservice{
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center; 
+}
+.cargimg3{
+  width: 350px;
+  height: 250px;
+}
+.card3{
+   margin-left: 35px;
+}
+.card4{
+  margin-left:10px;
+}
+.card5{
+  margin-left:-20px;
+}
+.construction{
+font-size: 20px;
+font-weight: bold;
+text-transform: uppercase;
+}
+.renovation{
+font-size: 20px;
+font-weight: bold;
+text-transform: uppercase;
+}
+.architecture{
+font-size: 20px;
+font-weight: bold;
+text-transform: uppercase;
+}
+.btn5{
+   text-transform: uppercase;
+    color: white;
+    background-color: #fccf03;
+    padding: 5px 20px;
+    border: 1px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn6{
+   text-transform: uppercase;
+    color: white;
+    background-color: #fccf03;
+    padding: 5px 20px;
+    border: 1px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+ .love{
+ 	margin-bottom: 50px;
+ 	background-color: #fab905;
+ 	width: 100%;
+ 	height: 650px;
+ }
+ .made{
+   text-transform: uppercase;
+   color: white;
+   font-size: 30px;
+   font-weight: bold;
+ }
+ .elit{
+  margin-top: 20px;
+  margin-bottom: -5px;
+ }
+ 
+ .textdown{
+  margin-top: 40px;
+ }
+ .btn7{
+    border: 1px;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+ .mainimage{
+   margin-left: 100px;
+ }
+
+ .mainphoto{
+    width: 500px;
+    height: 310px;  
+ }
+ .mainbody{	
+ 	position: relative;
+  width: 500px;
+  height: 310px;
+  margin-left:-10px; 
+ 
+ }
+ .firstimg{
+ 	position:absolute;
+ 	width: 246px;
+ 	height: 150px;
+    background-image: url(image/img9.jpeg);
+   left: 0;
+   background-size: cover;
+
+}
+.Secondimg{
+ 	position:absolute;
+ 	width: 246px;
+ 	height: 150px;
+  background-image: url(image/img11.jpeg);
+  right: 0;
+  background-size: cover;
+ }
+.thirdimg{
+ 	position:absolute;
+  width: 246px;
+ 	height: 150px;
+   background-image: url(image/img13.jpeg);
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+ }
+.fourthimg{
+ 	position:absolute;
+ 	width: 246px;
+ 	height: 150px;
+    background-image: url(image/img12.jpeg);
+    bottom: 0;
+    background-size: cover;
+ }
+ 
+ .name{
+ 	margin:0 70px;
+ }
+ .review{
+ text-transform: uppercase;
+ font-size: 30px;
+ font-weight:bold;
+ text-align: center;
+ }
+ 
+ .cardsmith{
+  width: 300px;
+  height: 300px;
+  padding-top: 20px;
+  margin-left: 50px;
+}
+.cardsmith1{
+  width: 300px;
+  height: 300px;
+  padding-top: 20px;
+}
+ .cardjohn{
+  width: 300px;
+  height: 340px;
+  margin-left: 30px
+ }
+ .cards{
+  border:none;
+ }
+ .feelfree{
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 140px
+ }
+ .question{
+ 	font-size: 30px;
+  font-weight: bold;
+  margin-bottom: -10px;
+}
+ .contact{
+ 	font-size: 36px;
+  font-weight: 400;
+  word-spacing: 2px
+ }
+.name1{
+   padding: 5px 15px;
+    border: 1px;
+    border-radius: 10px
+}
+.email{
+  padding: 5px 15px;
+  border: 1px;
+  border-radius: 10px
+}
+.message{
+  padding: 5px 70px;
+  border: 1px;
+  border-radius: 10px
+}
+.submitbutton{
+  margin-top: 10px;
+}
+.btn8{
+  text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    border: 1px;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin-left: 30px;
+}
+.compdetails{
+  background-color:black;
+  padding: 50px 0;
+  color: white;
+  opacity: 0.9; 
+
+}
+.compdetails ul li{
+  list-style: none;
+}
+.compdetails ul li a{
+  text-decoration: none;
+}
+.comapany{
+    margin-top: -26px;
+    letter-spacing: -1px;
+    text-transform: capitalize;
+    opacity: 0.5;
+}
+.about{
+  font-size: 20px;
+    font-weight: 400;
+}	
+.ssitelogo{
+  width: 200px;
+}
+.explore{
+	padding-bottom: 55px;
+   font-size: 20px;
+    font-weight: 400;
+}
+.post{
+	padding-bottom: 55px;
+   font-size: 20px;
+    font-weight: 400;
+}
+.contactus{
+	padding-bottom: 55px;
+   font-size: 20px;
+    font-weight: 400;
+}
+.logos{
+    color: #fccf03;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.copyright{
+	 background-color: grey;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+
+}
+.designed{
+  color: white;
+  text-transform: capitalize;
+}
